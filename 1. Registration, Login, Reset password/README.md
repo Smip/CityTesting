@@ -2,9 +2,9 @@
 
 Для регистрации можно использовать произвольные номера телефонов.
 
-- https://m.citybase.in.ua/v3/auth/login - авторизация
-- https://m.citybase.in.ua/v3/auth/registration - регистрация
-- https://m.citybase.in.ua/v3/auth/reset-password - сброс пароля
+- /v3/auth/login - авторизация
+- /v3/auth/registration - регистрация
+- /v3/auth/reset-password - сброс пароля
 
 Так как реальная отправка SMS отключена, то коды можно увидеть на служебной странице:
 
