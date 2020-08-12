@@ -2,7 +2,7 @@
 
 Страница находится по ссылке:
 
-- https://m.citybase.in.ua/v3/account/
+- /v3/account/
 
 ## Изменение пароля
 
