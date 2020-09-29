@@ -1,6 +1,6 @@
-### 3.0.34
+### 3.0.84
 
-- Исправлены баги [#59](https://github.com/Smip/CityTesting/issues/59)  [#60](https://github.com/Smip/CityTesting/issues/60)  [#59](https://github.com/Smip/CityTesting/issues/61)
+- Исправлены баги [#59](https://github.com/Smip/CityTesting/issues/59)  [#60](https://github.com/Smip/CityTesting/issues/60)  [#61](https://github.com/Smip/CityTesting/issues/61)
 
 ### 3.0.81
 
