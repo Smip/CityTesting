@@ -1,3 +1,10 @@
+### 3.0.91
+
+- [[База](/9.%20База/readme.md)] В версии для компьютеров панель с фильтрами "прилипающая" к экрану (IE11 не поддерживает, возможны баги)
+- [[База](/9.%20База/readme.md)] Добавлена панель с кнопкой обновить, в будущем будут ещё элементы
+- [[База](/9.%20База/readme.md)] Добавлен виртуальный скрол [#64](https://github.com/Smip/CityTesting/issues/64)
+- [[База](/9.%20База/readme.md)] Исправлены баги [#66](https://github.com/Smip/CityTesting/issues/66) [#67](https://github.com/Smip/CityTesting/issues/67) [#68](https://github.com/Smip/CityTesting/issues/68) [#70](https://github.com/Smip/CityTesting/issues/70) [#71](https://github.com/Smip/CityTesting/issues/71) [#72](https://github.com/Smip/CityTesting/issues/72) [#74](https://github.com/Smip/CityTesting/issues/74)
+
 ### 3.0.84
 
 - Исправлены баги [#59](https://github.com/Smip/CityTesting/issues/59)  [#60](https://github.com/Smip/CityTesting/issues/60)  [#61](https://github.com/Smip/CityTesting/issues/61)
